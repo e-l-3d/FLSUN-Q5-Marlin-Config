@@ -2,7 +2,7 @@
 
 ATTENTION: My Printer is modified. This configuration will NOT work with the factory FLSUN Q5!
 
-## Marlin 2.1.1:
+## Marlin 2.1.1
 Config files are from the marlin 2.1.1 version.
 
 ## Mods:
